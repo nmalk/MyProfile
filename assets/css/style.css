@@ -76,11 +76,10 @@ h2 {
     margin-bottom: 10px;
     text-shadow: black 0.1em 0.1em 0.2em;
 }
-
-.icons {
+#skills {
     position: relative;
-    width: 100%;
+    width: auto;
     display: flex;
     justify-content: space-around;
-    margin-bottom: 5px;
+    text-align: center;
 }

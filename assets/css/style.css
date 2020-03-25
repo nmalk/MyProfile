@@ -76,6 +76,9 @@ h2 {
     margin-bottom: 10px;
     text-shadow: black 0.1em 0.1em 0.2em;
 }
+.tech {
+    margin-top: 50px;
+}
 #skills {
     position: relative;
     width: auto;
@@ -104,6 +107,10 @@ hr {
 }
 
 /* PROJECTS SECTION **************************************************************** */
+#info {
+    position: relative;
+    margin-top: 60px;
+}
 .result {
     width: 340px;
     height: auto;

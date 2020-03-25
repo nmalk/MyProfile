@@ -98,3 +98,48 @@ hr {
     border-radius: 20px;
     box-shadow: 5px 5px 10px black;
 }
+.text {
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+/* PROJECTS SECTION **************************************************************** */
+.result {
+    width: 340px;
+    height: auto;
+    float: left;
+    background: transparent;
+    border: 1px solid #4444;
+}
+
+.projects {
+    margin: 5px auto 0 !important;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.card-text {
+    color: white;
+    font-size: 15px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+h5 {
+    color: white;
+    /*    margin-right: 50px;*/
+    padding: calc(var(--inner) / 2);
+    line-height: 20px;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.btn {
+    background: rgb(56, 6, 56);
+    border: none;
+}
+
+.btn:hover {
+    background: rgb(122, 37, 80);
+}
+
+/* ********************************************************************************** */
